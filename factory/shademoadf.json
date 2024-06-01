@@ -1,0 +1,9 @@
+{
+	"name": "shademoadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0df8f01b-0668-4227-97bf-758841a16a4f",
+		"tenantId": "8da28aa5-de27-4ba6-8263-5d5900b0651b"
+	}
+}
